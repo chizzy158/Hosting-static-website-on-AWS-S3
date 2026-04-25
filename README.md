@@ -1,4 +1,4 @@
-<img width="975" height="426" alt="image" src="https://github.com/user-attachments/assets/8a0ef68e-a371-444b-85b2-46573aee19e7" /># Hosting-static-website-on-AWS-S3
+
 
 # Introduction
 Amazon Simple Storage Service (S3), a service offered by Amazon Web Services, provides a highly scalable and cost-effective solution for hosting static websites. Static websites consist of fixed content such as HTML, CSS, JavaScript, and media files, without the need for server-side processing. This report outlines the process of creating and deploying a static website using Amazon S3
